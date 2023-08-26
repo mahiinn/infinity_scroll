@@ -1,0 +1,4 @@
+#Fri Aug 25 23:46:17 COT 2023
+base.0=C\:\\Users\\maria\\Documents\\gifs\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
